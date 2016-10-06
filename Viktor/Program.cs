@@ -20,9 +20,9 @@ namespace Viktor
 
         // Spells
         private static Spell Q, W, E, R;
-        private static readonly int maxRangeE = 1275;
-        private static readonly int lengthE = 750;
-        private static readonly int speedE = 1200;
+        private static readonly int maxRangeE = 1225;
+        private static readonly int lengthE = 700;
+        private static readonly int speedE = 1050;
         private static readonly int rangeE = 525;
 
         // Menu
